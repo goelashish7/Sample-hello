@@ -1,2 +1,2 @@
 # Sample-hello
-sample
+sample project
